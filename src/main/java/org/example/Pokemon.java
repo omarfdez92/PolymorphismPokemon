@@ -5,7 +5,7 @@ package org.example;
  * Date: 2023-04-06
  */
 
-public abstract class Pokemon {
+public class Pokemon {
 
     private String name;
     private int health;
